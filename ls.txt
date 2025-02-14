@@ -1,0 +1,9 @@
+итого 28K
+drwxrwxr-x  3 anya anya 4,0K фев 14 17:34 ./
+drwxr-x--- 16 anya anya 4,0K фев 14 17:33 ../
+-rw-rw-r--  1 anya anya  594 фев 14 17:30 config.txt
+-rw-rw-r--  1 anya anya  169 фев 14 17:22 first.txt
+drwxrwxr-x  8 anya anya 4,0K фев 14 17:34 .git/
+-rw-rw-r--  1 anya anya    0 фев 14 17:34 ls.txt
+-rw-rw-r--  1 anya anya   14 фев 14 17:21 README.md
+-rw-rw-r--  1 anya anya  408 фев 14 17:22 status.txt
